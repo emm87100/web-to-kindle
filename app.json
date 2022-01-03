@@ -22,6 +22,6 @@
     "SCREENSHOT_HEIGHT": {
       "description": "The number of pixels on the Y axis for screenshot",
       "value": "800"
-    },
+    }
   }
 }
