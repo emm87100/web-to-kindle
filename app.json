@@ -17,11 +17,11 @@
     },   
     "SCREENSHOT_WIDTH": {
       "description": "The number of pixels on the x axis for screenshot",
-      "value": 600
+      "value": "600"
     }, 
     "SCREENSHOT_HEIGHT": {
       "description": "The number of pixels on the Y axis for screenshot",
-      "value": 800
+      "value": "800"
     },
   }
 }
